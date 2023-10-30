@@ -1,0 +1,11 @@
+div{
+   background-color:blue;
+   height:120px;
+   width:58%;
+   }
+img{
+   background-color:limegreen;
+   border: 7px solid blue;
+   padding: 5px;
+   margin:7px;
+   }   
